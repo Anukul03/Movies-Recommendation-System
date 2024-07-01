@@ -26,7 +26,7 @@ The Movie Recommender System provides personalized movie recommendations. Users 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Anukul03/Movies-Recommendation-System/
+    git clone https://github.com/Anukul03/Movies-Recommendation-System.git
     cd movierecommender
     ```
 
