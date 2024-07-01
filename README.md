@@ -42,7 +42,8 @@ The Movie Recommender System provides personalized movie recommendations. Users 
     ```
 
 4. **Download the necessary files:**
-    Place `movies.pkl`, `cosine_sim.pkl`, and `movies_metadata.csv` in the `data` directory.
+    Place `movies.pkl`, `cosine_sim.pkl`, and `movies_metadata.csv` in the `data` directory.  
+    Download dataset zip from <a href="https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset">The Movies Dataset</a>
 
 ## How to Run
 
